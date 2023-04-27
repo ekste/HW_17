@@ -1,3 +1,7 @@
-body {
+.hello {
+    color: green;
+}
+
+.goodbye {
     color: red;
 }
